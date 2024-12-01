@@ -2,6 +2,8 @@
 
 ## 1 . Install git 
 sudo apt-install git-all
+configure default branch strategy : git config --global init.defaultBranch master
+
 
 ## 2 . Setting up Intellij Community Edition
 Download IntelliJ IDEA Community Edition:
